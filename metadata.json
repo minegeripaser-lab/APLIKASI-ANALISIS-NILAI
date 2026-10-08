@@ -1,0 +1,8 @@
+{
+  "name": "AnalisGuru - Sistem Analisis Asesmen & Butir Soal Siswa",
+  "description": "Aplikasi profesional analisis ulangan dan asesmen siswa berbasis Kurikulum Merdeka & K13 dengan psikometrik butir soal, analisis TP, remedial, pengayaan, dan cetak laporan resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
